@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shawski123
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me sean2me2016@gmail.com
