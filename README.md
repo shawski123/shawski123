@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @shawski123
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me sean2me2016@gmail.com
+Hi, I go by shawski!
+I am learning C# and I mostly make console games
+add me on discord if you wanna chat! shawski#6449
