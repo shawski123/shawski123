@@ -1,3 +1,3 @@
 Interested in all things tech.
 
-Add me on discord to chat: shawski#6449 
+Add me on discord to chat: shawski. (The period is part of the name)
